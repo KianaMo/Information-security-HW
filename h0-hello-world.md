@@ -1,9 +1,10 @@
-#First excersise
+# First excersise
 
 Hello world!
 
- ##Second header
+ ## Second header
 
     First homework in course!
+    
 
    
